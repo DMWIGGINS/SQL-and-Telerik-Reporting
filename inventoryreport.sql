@@ -8,23 +8,23 @@ FROM Bead b
 JOIN BraceletInventory bi ON bi.BeadID = b.BeadID
 ORDER BY Gemstone ASC
 
-/* SizePicker */
+/* SizePicker: Bracelet size ranging from 6.00 to 9.00 (may search for one or multiple ) */
 SELECT DISTINCT Size
 FROM BraceletInventory
 ORDER BY Size ASC
 
-/* ButtonPicker */
+/* ButtonPicker: A variety of buttons are used for securing the bracelets (may search for one or multiple)  */
 SELECT Description, 
      ButtonID
 FROM Button
 ORDER BY Description ASC
 
-/* StatusPicker */
+/* StatusPicker: May search by Available, Sold, or All */
 SELECT DISTINCT bi.Status
 FROM BraceletInventory bi
 ORDER BY Status ASC
 
-/* Main query to retrieve selected data  */
+/* Main query to retrieve selected data */
 /* BraceletData */
 SELECT b.Gemstone,
 	bi.Size,
