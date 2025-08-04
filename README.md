@@ -5,7 +5,8 @@ I was looking for a way to showcase my skills using SQL Server, SSMS and Telerik
 
 Here is my Bracelet Database Diagram with Foreign Key Relationships.
 
-![Bracelet Database Diagram](images/DatabaseDiagramwithFK.png)
+<img src="images/DatabaseDiagramwithFK.png" alt="Bracelet Database Diagram" style="width: 100%; max-width: 1200px; display: block; margin: 20px auto;">
+
 
 
 
