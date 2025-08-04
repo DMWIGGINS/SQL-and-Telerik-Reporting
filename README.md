@@ -22,7 +22,7 @@ Here are the [Parameter Queries](https://github.com/DMWIGGINS/SQL-and-Telerik-Re
 
 _Click image below to see fullsize_
 
-![Telerik UI](images/ReportDesignerInterface.png)
+[![Telerik UI](images/ReportDesignerInterface.png)](images/ReportDesignerInterface.png)
 
 ![Unpopulated Report](images/InventoryReportUnpopulated.png)
 
