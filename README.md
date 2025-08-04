@@ -33,6 +33,13 @@ Here are the [Parameter Queries](inventoryreport.sql) that were used to populate
 
 ![StatusPicker](images/StatusPickerwithData.png)
 
+![Size7sAvailable](images/Size7sAvailable.png)
+
+![Size7sSold](images/Size7sSold.png)
+
+![AllSizesAvailablePart1](images/AllSizesAvailablePart1.PNG)
+
+![AllSizesAvailablePart2](images/AllSizesAvailablePart2.PNG)
 
 
 
