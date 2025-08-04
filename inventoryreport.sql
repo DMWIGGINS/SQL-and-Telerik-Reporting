@@ -24,7 +24,7 @@ SELECT DISTINCT bi.Status
 FROM BraceletInventory bi
 ORDER BY Status ASC
 
-/* Main query to retrieve selected data */
+/* Main query to retrieve data using selected parameters*/
 /* BraceletData */
 SELECT b.Gemstone,
 	bi.Size,
