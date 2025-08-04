@@ -12,8 +12,8 @@ _Click image to see fullsize_
 
 
 
-Here are the Create Table Scripts edited for readability.
-[Create Tables SQL](tables.sql)
+Here are the [Create Table Scripts](tables.sql) edited for readability.
+
 
 
 
