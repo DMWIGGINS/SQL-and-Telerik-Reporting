@@ -19,7 +19,7 @@ To create a Telerik Report, you must decide what parameters (if any) the user wi
 
 I decided that it would be useful to search by Bead (Gemstone), Bracelet Size, Button and Status.
 
-Here are the queries that were used to populate the select options.  [Parameter queries](inventoryreport.png)
+Here are the queries that were used to populate the select options.  [Parameter queries](inventoryreport.sql)
 
 
 
