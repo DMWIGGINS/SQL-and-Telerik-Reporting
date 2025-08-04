@@ -8,8 +8,7 @@ Here is my Bracelet Database Diagram with Foreign Key Relationships.
 [![Bracelet Database Diagram](images/DatabaseDiagramwithFK-thumb.png)](images/DatabaseDiagramwithFK-full.png)
 
 
-
-_Click thumbnail to enlarge_
+_Click to enlarge_
 
 
 
