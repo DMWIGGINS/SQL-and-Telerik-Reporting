@@ -17,9 +17,9 @@ Here are the [Create Table Scripts](tables.sql) edited for readability.
 
 To create a Telerik Report, you must decide what parameters (if any) the user will need to select.
 
-I decided that it would be useful to search by Bead (Gemstone), Bracelet Size, Button and Status.
+I decided that it would be useful to search by Bead (Gemstone), Bracelet Size, Button (I have a variety of fun buttons used for clasps) and Status (Available/Sold).
 
-Here are the queries that were used to populate the select options.  [Parameter queries](inventoryreport.sql)
+Here are the [Parameter Queries](inventoryreport.sql) that were used to populate the select options.  
 
 
 
