@@ -41,12 +41,7 @@ Here are the [Parameter Queries](inventoryreport.sql) that were used to populate
 
 ![AllSizesAvailablePart2](images/AllSizesAvailablePart2.PNG)
 
-
-
-Here are the [Create Table Scripts](https://raw.github.com/DMWIGGINS/SQL-and-Telerik-Reporting/blob/main/tables.sql) edited for readability.
-
-
-https://raw.githubusercontent.com/DMWIGGINS/SQL-and-Telerik-Reporting/blob/main/tables.sql
+[Table Scripts]https://github.com/DMWIGGINS/SQL-and-Telerik-Reporting/blob/main/tables.sql
 
 
 
