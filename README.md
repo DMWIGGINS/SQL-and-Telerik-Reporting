@@ -19,7 +19,7 @@ I decided that it would be useful to search by Bead (Gemstone), Bracelet Size, B
 
 Here are the [Parameter Queries](https://github.com/DMWIGGINS/SQL-and-Telerik-Reporting/blob/main/inventoryreport.sql) that were used to populate the select options as well as the main query that produces the report.
 
-**Telerik interface and report design**
+## Telerik interface and report design
 
 _Click image below to see fullsize_
 
@@ -27,7 +27,7 @@ _Click image below to see fullsize_
 
 ![Unpopulated Report](images/InventoryReportUnpopulated.png)
 
-**Parameter Pickers populated with information**
+## Parameter Pickers populated with information
 
 ![BeadPicker](images/BeadPickerwithData.png)
 
@@ -37,7 +37,7 @@ _Click image below to see fullsize_
 
 ![StatusPicker](images/StatusPickerwithData.png)
 
-**Report examples with real data**
+## Report examples with real data
 
 ![Size7sAvailable](images/Size7sAvailable.png)
 
