@@ -49,7 +49,7 @@ Select Button(s)
 ![ButtonPicker](images/ButtonPickerwithData.png)
 
 
-Select Status (Active, Sold or choose both)
+Select Status 
 
 ![StatusPicker](images/StatusPickerwithData.png)
 
