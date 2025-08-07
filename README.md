@@ -1,3 +1,4 @@
+## Presenting......a Bracelet Database?
 
 
 I was looking for a way to showcase my skills using SQL Server, SSMS and Telerik Report Designer.  As luck would have it, I was also starting to make and sell leather and gemstone beaded bracelets.  I created this database to keep track of supplies and costs as well as a Crosstab Report to track bracelet inventory.
@@ -55,17 +56,17 @@ Select Status (Active, Sold or choose both)
 
 ## Report examples with real data
 
-Searching for available bracelets with either aquamarine, aventurine, lepidolite or onyx, all button options, sizes 7.0, 7.25, 7.50, 7.75.
+Searching for _available_ bracelets with either aquamarine, aventurine, lepidolite or onyx, all button options, sizes 7.00, 7.25, 7.50, 7.75.
 
 ![Size7sAvailable](images/Size7sAvailable.png)
 
 
-Searching for sold bracelets with aquamarine, aventurine, lepidolite or onyx, all button options, sizes 7.0, 7.25, 7.50, 7.75.
+Searching for _sold_ bracelets with aquamarine, aventurine, lepidolite or onyx, all button options, sizes 7.00, 7.25, 7.50, 7.75.
 
 ![Size7sSold](images/Size7sSold.png)
 
 
-Here is a general inventory report showing all available bracelets. 
+Here is a general inventory report showing available bracelets with 10 of the gemstone/bead(s), all button options and all sizes. (2 images)
 
 _Click below images to see fullsize_
 
